@@ -1,4 +1,4 @@
 # maskrcnn-yieldsage
 
 ## Arsitektur MaskRCNN
-![Alt text](images/Arsitektur ML Caps.drawio.png "Arsitektur")
+![Alt text](images/arsitektur.png "Arsitektur")
